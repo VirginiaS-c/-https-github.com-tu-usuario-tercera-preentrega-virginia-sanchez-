@@ -1,5 +1,4 @@
 Este proyecto es una aplicación web desarrollada con Django que permite gestionar libros. Incluye funcionalidades para insertar y buscar libros, autores y editoriales.
-
 ## Funcionalidades
 - Herencia de HTML
 - Modelos para libros, autores y editoriales
